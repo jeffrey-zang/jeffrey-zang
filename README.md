@@ -15,13 +15,7 @@
 - [jeffrey-zang.github.io](https://jeffrey-zang.github.io/) - Personal website, dev portfolio
 - [Happy Math Education](https://github.com/jeffrey-zang/happy-math-education) - Beta website for Happy Math Education
 
-## 🌱 I’m currently learning ...
-- React
-- Unity3D
-- Javascript
-- Python
-
-## ⚡My previous projects ...
+## ⚡ My previous projects ...
 - [Farmout Bot](https://github.com/Yourself1011/farmoutbot) - Discord bot about being a farmer
 - [Meleti](https://github.com/Yourself1011/meleti) - Discord bot to assist with studying and increase productivity
 
