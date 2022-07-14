@@ -1,7 +1,7 @@
 ### Hello 👋, I'm 
 # **Jeffrey Zang** 🦀
 
-![jeffrey-zang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrey-zang&show_icons=true&theme=tokyonight) 
+![jeffrey-zang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrey-zang&show_icons=true&theme=tokyonight&hide_rank=true) 
 
 ## **Links** 🔗
 - GitHub: [jeffrey-zang](https://github.com/jeffrey-zang)
