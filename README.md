@@ -1,7 +1,8 @@
 ### Hello 👋, I'm 
 # **Jeffrey Zang** 🦀
 
-![jeffrey-zang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrey-zang&show_icons=true&theme=tokyonight&hide_rank=true) 
+![jeffrey-zang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrey-zang&show_icons=true&theme=tokyonight&hide_rank=true&hide=prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-zang&hide=ShaderLab,HLSL&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## **Links** 🔗
 - GitHub: [jeffrey-zang](https://github.com/jeffrey-zang)
@@ -18,8 +19,6 @@
 ## ⚡ My previous projects ...
 - [Farmout Bot](https://github.com/Yourself1011/farmoutbot) - Discord bot about being a farmer
 - [Meleti](https://github.com/Yourself1011/meleti) - Discord bot to assist with studying and increase productivity
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-zang&hide=ShaderLab,HLSL&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jeffrey-zang/jeffrey-zang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
