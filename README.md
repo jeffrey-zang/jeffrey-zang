@@ -4,7 +4,7 @@
 ![jeffrey-zang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrey-zang&show_icons=true&theme=tokyonight&hide_rank=true&hide=prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-zang&hide=ShaderLab,HLSL&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## **Links** 🔗
+## 🔗 **Links** 
 - GitHub: [jeffrey-zang](https://github.com/jeffrey-zang)
 - Discord: Jeff Bozos#4701
 - Stack Overflow: [Larg Ank](https://stackoverflow.com/users/14683783/larg-ank)
