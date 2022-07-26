@@ -1,7 +1,7 @@
 ### Hello 👋, I'm 
 # **Jeffrey Zang** 🦀
 
-![jeffrey-zang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrey-zang&show_icons=true&theme=tokyonight&hide_rank=true&hide=prs) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-zang&hide=ShaderLab,HLSL&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![jeffrey-zang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrey-zang&show_icons=true&theme=tokyonight&hide_rank=true&hide=prs,stars) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-zang&hide=ShaderLab,HLSL&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔗 **Links** 
