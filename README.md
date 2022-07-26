@@ -12,13 +12,14 @@
 - Personal Website: https://jeffrey-zang.github.io/
 
 ## 🔭 I’m currently working on ...
+- [SimpleRead](https://github.com/lifeng-yin/simpleread) - A simple, minimalist book reviewing website
 - [galactijump](https://github.com/jeffrey-zang/galactijump) - Simple game made with Unity3D
 - [jeffrey-zang.github.io](https://jeffrey-zang.github.io/) - Personal website, dev portfolio
-- [Happy Math Education](https://github.com/jeffrey-zang/happy-math-education) - Beta website for Happy Math Education
 
 ## ⚡ My previous projects ...
 - [Farmout Bot](https://github.com/Yourself1011/farmoutbot) - Discord bot about being a farmer
 - [Meleti](https://github.com/Yourself1011/meleti) - Discord bot to assist with studying and increase productivity
+- [Happy Math Education](https://github.com/jeffrey-zang/happy-math-education) - Website for Happy Math Education, a tutoring service for math contests
 
 <!--
 **jeffrey-zang/jeffrey-zang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
