@@ -10,6 +10,7 @@
 - Stack Overflow: [Larg Ank](https://stackoverflow.com/users/14683783/larg-ank)
 - Replit: [LargAnk](https://replit.com/@LargAnk)
 - Personal Website: https://jeffrey-zang.github.io/
+- LinkedIn: https://www.linkedin.com/in/jeffrey-zang-49b872246/
 
 ## 🔭 I’m currently working on ...
 - [SimpleRead](https://github.com/lifeng-yin/simpleread) - A simple, minimalist book reviewing website
@@ -20,6 +21,10 @@
 - [Farmout Bot](https://github.com/Yourself1011/farmoutbot) - Discord bot about being a farmer
 - [Meleti](https://github.com/Yourself1011/meleti) - Discord bot to assist with studying and increase productivity
 - [Happy Math Education](https://github.com/jeffrey-zang/happy-math-education) - Website for Happy Math Education, a tutoring service for math contests
+
+## 📱 Contact Methods
+- Email: jeffrey-zang@protonmail.me
+- Discord: Jeff Bozos#4701
 
 <!--
 **jeffrey-zang/jeffrey-zang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
