@@ -1,7 +1,7 @@
+
 ### Hello 👋, I'm 
 # **Jeffrey Zang** 🦀
 
-![jeffrey-zang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrey-zang&show_icons=true&theme=tokyonight&hide_rank=true&hide=prs,stars) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-zang&hide=ShaderLab,HLSL&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔗 **Links** 
@@ -26,6 +26,16 @@
 - Email: jeffrey-zang@protonmail.me
 - Discord: Jeff Bozos#4701
 
+<div align = 'center'>
+
+## 📊 My GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeffrey-zang&theme=tokyonight)](https://git.io/streak-stats)
+<br></br>
+![jeffrey-zang's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffrey-zang&show_icons=true&theme=tokyonight&hide_rank=true&hide=prs,stars) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-zang&hide=ShaderLab,HLSL&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <!--
 **jeffrey-zang/jeffrey-zang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
