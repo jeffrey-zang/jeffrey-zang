@@ -1,30 +1,42 @@
 
 ### Hello 👋, I'm 
 # **Jeffrey Zang** 🦀
+I like hackathons<br/>
+Also I make websites and stuff sometimes
 
-
-
-## 🔗 **Links** 
-- GitHub: [jeffrey-zang](https://github.com/jeffrey-zang)
-- Discord: Jeff Bozos#4701
-- Stack Overflow: [Larg Ank](https://stackoverflow.com/users/14683783/larg-ank)
-- Replit: [LargAnk](https://replit.com/@LargAnk)
-- Personal Website: https://jeffrey-zang.github.io/
-- LinkedIn: https://www.linkedin.com/in/jeffrey-zang-49b872246/
+---
 
 ## 🔭 I’m currently working on ...
-- [SimpleRead](https://github.com/lifeng-yin/simpleread) - A simple, minimalist book reviewing website
-- [galactijump](https://github.com/jeffrey-zang/galactijump) - Simple game made with Unity3D
-- [jeffrey-zang.github.io](https://jeffrey-zang.github.io/) - Personal website, dev portfolio
+> - [RythmHacks](https://www.rythmhacks.ca/) - In person high school hackathon happening in August
+> - [Trivia Scoreboard](https://trivia-scoreboard.netlify.app/) - Website for keeping score during trivia club meetings
+> - [jeffrey-zang.github.io](https://jeffrey-zang.github.io/) - Personal website, dev portfolio
 
-## ⚡ My previous projects ...
-- [Farmout Bot](https://github.com/Yourself1011/farmoutbot) - Discord bot about being a farmer
-- [Meleti](https://github.com/Yourself1011/meleti) - Discord bot to assist with studying and increase productivity
-- [Happy Math Education](https://github.com/jeffrey-zang/happy-math-education) - Website for Happy Math Education, a tutoring service for math contests
+## ⚡ My projects and experiences ...
+> - [clockhacks.ca](https://github.com/ClockHacks/clockhacks.ca), website for **ClockHacks** (cool) (you should join)
+> - [Hackathon Idea Generator](https://github.com/jeffrey-zang/hackathon-idea-generator), **NextJS** website that uses **OpenAI** to generate hackathon ideas
+> - [links.rythmhacks.ca](https://links.rythmhacks.ca/), links page for **RythmHacks**
+> - [happymatheducation.com](https://github.com/happymatheducation/happymatheducation.com), website for **Happy Math Education**
+> - [MyRecipePal](https://github.com/jeffrey-zang/MyRecipePal), recipe generating website, submission for **Hack the North 2022**
+> - [CharityChimp](https://github.com/jeffrey-zang/charitychimp), social network for charities, won **Best Use of Deso** at Give Back Hacks
+> - [cultivate](https://github.com/lifeng-yin/cultivate), a home for urban farmers, won **Best Accessibility Hack** at HarvestHacks
+> - [Farmout Bot](https://github.com/Yourself1011/farmoutbot), discord bot about **being a farmer**
+> - [Meleti](https://github.com/Yourself1011/meleti), discord bot to assist with **studying** and increase productivity
+> - [galactijump](https://github.com/jeffrey-zang/galactijump), low poly space game made in **Unity**
+
+---
+
+## 🔗 **Links** 
+> - GitHub: [jeffrey-zang](https://github.com/jeffrey-zang)
+> - Discord: Jeff Bozos#4701
+> - Stack Overflow: [Larg Ank](https://stackoverflow.com/users/14683783/larg-ank)
+> - Replit: [LargAnk](https://replit.com/@LargAnk)
+> - Personal Website: https://jeffrey-zang.github.io/
+> - LinkedIn: https://www.linkedin.com/in/jeffreyzang2007/
 
 ## 📱 Contact Methods
-- Email: jeffrey-zang@protonmail.me
-- Discord: Jeff Bozos#4701
+> - Email: jeffrey-zang@protonmail.me
+> - Discord: Jeff Bozos#4701
+---
 
 <div align = 'center'>
 
