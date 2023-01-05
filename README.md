@@ -21,6 +21,7 @@ Also I make websites and stuff sometimes
 > - [cultivate](https://github.com/lifeng-yin/cultivate), a home for urban farmers, won **Best Accessibility Hack** at HarvestHacks
 > - [Farmout Bot](https://github.com/Yourself1011/farmoutbot), discord bot about **being a farmer**
 > - [Meleti](https://github.com/Yourself1011/meleti), discord bot to assist with **studying** and increase productivity
+> - [Sands of Typing][https://github.com/jeffrey-zang/sands-of-typing], a typing test built in the command line with Python
 > - [galactijump](https://github.com/jeffrey-zang/galactijump), low poly space game made in **Unity**
 
 ---
