@@ -1,8 +1,6 @@
 
 ### Hello 👋, I'm 
 # **Jeffrey Zang** 🦀
-I like hackathons<br/>
-Also I make websites and stuff sometimes
 
 ---
 
