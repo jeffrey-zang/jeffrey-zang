@@ -1,6 +1,6 @@
 
 ### Hello, I'm 
-# [Jeffrey Zang](https://www.linkedin.com/in/jeffreyzang2007/) 🦀
+# [Jeffrey Zang](https://www.linkedin.com/in/jeffreyzang/) 🦀
 
 ---
 
