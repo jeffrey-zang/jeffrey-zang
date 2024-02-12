@@ -45,3 +45,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeffrey-zang&hide=ShaderLab,HLSL&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+## 📊 &nbsp;Weekly Development Breakdown
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
