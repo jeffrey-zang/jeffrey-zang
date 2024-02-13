@@ -50,9 +50,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 mins
+Total Time: 38 mins
 
-Python   3 mins          █████████████████████████   100.00 %
+Processing   31 mins         ████████████████████▒░░░░   81.71 %
+Markdown     3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
+Python       3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
