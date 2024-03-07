@@ -6,6 +6,7 @@
 
 ## Stuff I've made
 > - [Navitas](https://devpost.com/software/navitas), chemistry-software-hardware project for uOttaHack 6 that generates energy from thin air
+> - [eclipseexpos.org](https://eclipseexpos.org/), website for Eclipse2024, the world's largest youth-led event
 > - [pitchplat.app](https://pitchplat.app/), website for Plat, my Flowboat startup
 > - [solcoa.tech](https://www.solcoa.tech/), website for Solcoa Technologies
 > - [hoomanrezanezhad.com](https://www.hoomanrezanezhad.com/), Hooman's personal website
