@@ -19,13 +19,13 @@ Check out notable [projects](https://jeffz.dev/projects) and my [resume](https:/
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 23 mins
+Total Time: 12 hrs 47 mins
 
-Vue.js        2 hrs 21 mins   █████████▒░░░░░░░░░░░░░░░   36.81 %
-Processing    1 hr 44 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.33 %
-JavaScript    1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   20.61 %
-TypeScript    29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Markdown      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+TypeScript    6 hrs 57 mins   █████████████▓░░░░░░░░░░░   54.37 %
+Processing    1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Vue.js        1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+JavaScript    1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+CSS           28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
