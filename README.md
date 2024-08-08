@@ -21,8 +21,8 @@ Check out notable [projects](https://jeffz.dev/projects) and my [resume](https:/
 ```txt
 Total Time: 1 hr 22 mins
 
-TypeScript   1 hr 19 mins    ████████████████████████░   96.46 %
-Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+TypeScript   1 hr 19 mins    ████████████████████████░   96.45 %
+Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
