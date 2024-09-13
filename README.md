@@ -21,9 +21,9 @@ Check out notable [projects](https://jeffz.dev/projects) and my [resume](https:/
 ```txt
 Total Time: 4 hrs 51 mins
 
-TypeScript    2 hrs 20 mins   ████████████░░░░░░░░░░░░░   48.14 %
-JavaScript    1 hr 38 mins    ████████▒░░░░░░░░░░░░░░░░   33.59 %
-HTML          35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+TypeScript    2 hrs 20 mins   ████████████░░░░░░░░░░░░░   48.11 %
+JavaScript    1 hr 38 mins    ████████▒░░░░░░░░░░░░░░░░   33.61 %
+HTML          35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
 JSON          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 CSS           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
