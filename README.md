@@ -19,9 +19,10 @@ Check out notable [projects](https://jeffz.dev/projects) and my [resume](https:/
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 mins
+Total Time: 12 mins
 
-Swift   2 mins          █████████████████████████   100.00 %
+Python   10 mins         █████████████████████░░░░   83.34 %
+Swift    2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
 ```
 
 <!--END_SECTION:waka-->
