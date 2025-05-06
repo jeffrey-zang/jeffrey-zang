@@ -19,13 +19,13 @@ Check out notable [projects](https://jeffz.dev/projects) and my [resume](https:/
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 49 mins
+Total Time: 10 hrs 22 mins
 
-JavaScript    8 hrs           ████████████████▒░░░░░░░░   65.68 %
-TypeScript    2 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
-JSON          48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
-Other         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-CSS           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+JavaScript    8 hrs 13 mins   ███████████████████▒░░░░░   77.88 %
+TypeScript    1 hr 15 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+JSON          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+CSS           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Other         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->
