@@ -19,13 +19,13 @@ Check out notable [projects](https://jeffz.dev/projects) and my [resume](https:/
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 52 mins
+Total Time: 5 hrs 29 mins
 
-TeX          1 hr 32 mins    ██████████░░░░░░░░░░░░░░░   39.92 %
-Racket       1 hr 22 mins    █████████░░░░░░░░░░░░░░░░   35.47 %
-TypeScript   46 mins         █████░░░░░░░░░░░░░░░░░░░░   19.95 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+TeX          2 hrs 42 mins   ████████████▒░░░░░░░░░░░░   49.19 %
+Racket       1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   19.86 %
+Text         41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+Python       35 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+TypeScript   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 ```
 
 <!--END_SECTION:waka-->
