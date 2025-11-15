@@ -10,13 +10,13 @@ Check out notable my [website](http://jeffreyzang.com/).
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 17 mins
+Total Time: 21 hrs 57 mins
 
-TypeScript   16 hrs 41 mins  █████████████████████▓░░░   86.50 %
-JSON         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-SQL          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-MDX          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-HTML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+TypeScript   19 hrs 8 mins   █████████████████████▓░░░   87.19 %
+SQL          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+JSON         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+MDX          29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Markdown     20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
