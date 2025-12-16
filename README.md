@@ -10,13 +10,13 @@ Check out notable my [website](http://jeffreyzang.com/).
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 18 mins
+Total Time: 15 hrs 30 mins
 
-Bash         3 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
-Racket       3 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.90 %
-Swift        3 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
-Python       2 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
-Markdown     18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Bash         3 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+Racket       3 hrs 56 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+Swift        3 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.56 %
+Python       1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+XML          1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
 ```
 
 <!--END_SECTION:waka-->
