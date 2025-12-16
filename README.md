@@ -4,8 +4,6 @@
 
 ---
 
-Check out notable my [website](http://jeffreyzang.com/).
-
 ## 📊 &nbsp;Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
