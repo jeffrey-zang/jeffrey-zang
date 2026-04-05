@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 34 mins
+Total Time: 14 hrs 2 mins
 
-Swift        14 hrs 30 mins        ████████████████████░░░░░   80.29 %
-Other        3 hrs 30 mins         █████░░░░░░░░░░░░░░░░░░░░   19.37 %
-Bash         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Swift        13 hrs 58 mins        ███████████████████▓░░░░░   78.77 %
+Other        3 hrs 41 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.83 %
+JSON         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
