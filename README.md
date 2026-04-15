@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 41 mins
+Total Time: 7 hrs 40 mins
 
-Other         11 hrs 17 mins        █████████████░░░░░░░░░░░░   51.39 %
-Swift         8 hrs 52 mins         ██████████░░░░░░░░░░░░░░░   40.39 %
-XML           1 hr 1 min            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-TypeScript    18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Text          13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Other        8 hrs 34 mins         █████████████▒░░░░░░░░░░░   52.79 %
+Swift        5 hrs 55 mins         █████████░░░░░░░░░░░░░░░░   36.49 %
+XML          1 hr 1 min            █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+TypeScript   18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Text         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
