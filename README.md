@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 54 mins
+Total Time: 7 hrs 48 mins
 
-Markdown     2 hrs 55 mins         ████████▒░░░░░░░░░░░░░░░░   33.08 %
-HTML         2 hrs 24 mins         ███████░░░░░░░░░░░░░░░░░░   27.34 %
-Other        1 hr 55 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
-Swift        35 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-SSH Config   30 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Markdown     3 hrs 48 mins         ██████████░░░░░░░░░░░░░░░   39.56 %
+HTML         2 hrs 24 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
+Other        1 hr 49 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
+Swift        35 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+SSH Config   30 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
 ```
 
 <!--END_SECTION:waka-->
