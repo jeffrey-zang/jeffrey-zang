@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 48 mins
+Total Time: 6 hrs 46 mins
 
-Markdown     3 hrs 48 mins         ██████████░░░░░░░░░░░░░░░   39.56 %
-HTML         2 hrs 24 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
-Other        1 hr 49 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.88 %
-Swift        35 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-SSH Config   30 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Markdown     3 hrs 48 mins         ███████████░░░░░░░░░░░░░░   43.91 %
+Other        1 hr 53 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+Python       1 hr 41 mins          █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+HTML         41 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Swift        16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
 ```
 
 <!--END_SECTION:waka-->
