@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 27 mins
+Total Time: 6 hrs 46 mins
 
-Markdown     3 hrs 19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.69 %
-Swift        2 hrs 42 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
-JavaScript   2 hrs 41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
-Other        2 hrs 35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-CSV          2 hrs 21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+Markdown     2 hrs 47 mins         ███████▒░░░░░░░░░░░░░░░░░   29.82 %
+Other        2 hrs 35 mins         ███████░░░░░░░░░░░░░░░░░░   27.68 %
+CSV          1 hr 44 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
+JavaScript   1 hr 5 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
+Swift        54 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
 ```
 
 <!--END_SECTION:waka-->
