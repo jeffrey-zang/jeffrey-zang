@@ -8,13 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 17 mins
+Total Time: 6 hrs 38 mins
 
-Markdown     2 hrs 22 mins         ███████████░░░░░░░░░░░░░░   43.41 %
-Python       1 hr 55 mins          ████████▓░░░░░░░░░░░░░░░░   35.14 %
-CSV          30 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
-Swift        21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Other        11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Python       3 hrs 9 mins          ████████████░░░░░░░░░░░░░   47.55 %
+Markdown     1 hr 57 mins          ███████▒░░░░░░░░░░░░░░░░░   29.46 %
+Swift        44 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+CSV          29 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+TypeScript   10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->
